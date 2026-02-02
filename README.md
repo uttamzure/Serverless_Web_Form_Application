@@ -120,7 +120,7 @@ Fill in the form details and submit.
 
 ---
 
-![Reference Image](./images/output.png)
+![Reference Image](./images/submit_form_output.png)
 
 ---
 
